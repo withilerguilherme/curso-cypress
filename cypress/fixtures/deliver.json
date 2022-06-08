@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Withiler",
+            "cpf": "14655336641",
+            "email": "withilerguilherme@outlook.com",
+            "whatsapp": "31991903413",
+            "address": {
+                "postalcode": "30642585",
+                "street": "Rua Afonso Teixeira Dias",
+                "number": "61",
+                "details": "casa",
+                "district": "Miramar (Barreiro)",
+                "city_state": "Belo Horizonte/MG"
+            },
+            "delivery_method": "Moto",
+            
+            "cnh": "cnh-digital.jpg"
+    },
+     "cpf_inv": {
+            "name": "Withiler",
+            "cpf": "X14655336641AA",
+            "email": "withilerguilherme@outlook.com",
+            "whatsapp": "31991903413",
+            "address": {
+                "postalcode": "30642585",
+                "street": "Rua Afonso Teixeira Dias",
+                "number": "61",
+                "details": "casa",
+                "district": "Miramar (Barreiro)",
+                "city_state": "Belo Horizonte/MG"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+     },
+     "email_inv": {
+        "name": "Withiler",
+            "cpf": "14655336641",
+            "email": "withilerguilherme.com",
+            "whatsapp": "31991903413",
+            "address": {
+                "postalcode": "30642585",
+                "street": "Rua Afonso Teixeira Dias",
+                "number": "61",
+                "details": "casa",
+                "district": "Miramar (Barreiro)",
+                "city_state": "Belo Horizonte/MG"
+            },
+            "delivery_method": "Moto",
+             "cnh": "cnh-digital.jpg"
+    }
+ }
