@@ -18,7 +18,7 @@ export default {
                 district: 'Miramar (Barreiro)',
                 city_state: 'Belo Horizonte/MG'
             },
-            delivery_method: 'Moto',
+            deliver_method: 'Moto',
             cnh: 'cnh-digital.jpg'
         }
 

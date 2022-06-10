@@ -33,7 +33,7 @@ describe('Signup', () => {
     it('Incorrect email', function (){
 
         var deliver = signupFactory.deliver()
-        deliver.email = 'felipematheus.com.br'
+        deliver.email = 'withiler.com.br'
         signup.go()
         signup.fillform(deliver)
         signup.submit()
@@ -45,11 +45,11 @@ describe('Signup', () => {
         const messages = [
             { field: 'name', output: 'É necessário informar o nome' },
             { field: 'cpf', output: 'É necessário informar o CPF' },
-            { field: 'email', output: 'É necessário informar o e-mail' },
+            { field: 'email', output: 'É necessário informar o email' },
             { field: 'postalcode', output: 'É necessário informar o CEP' },
             { field: 'number', output: 'Selecione o método de entrega' },
             { field: 'delivery_method', output: 'É necessário informar o nome' },
-            { field: 'cnh', output: 'Adicione uma foto da sua CNH' }
+            { field: 'cnh', output: 'Adicione uma foto da sua CNH'}
         ]
 
         before(function(){
